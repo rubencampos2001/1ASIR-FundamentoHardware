@@ -19,6 +19,7 @@ Me he inventado un taller pequeño de barrio y le he puesto de nombre **Taller R
 | Fichero | Qué es |
 | :---- | :---- |
 | `Proyecto_Fundamentos_Hardware_Taller.pdf` | El documento entero del proyecto |
+| `manual-hardware/Manual_Fundamentos_Hardware_Ruben_Campos.pdf` | Manual práctico de hardware y herramientas de diagnóstico (actividad entregable) |
 | `README.md` | Este archivo, para presentar el repo |
 
 ## Cómo está montado el documento
@@ -63,6 +64,22 @@ Estos son los puntos que me piden y que he intentado cubrir:
 ## Cómo abrirlo
 
 Solo hay que abrir el fichero `Proyecto_Fundamentos_Hardware_Taller.pdf` (se ve directamente en GitHub o con cualquier lector de PDF).
+
+## 🔧 Manual práctico de hardware (actividad entregable)
+
+Además del proyecto del taller, en [`manual-hardware/`](manual-hardware/Manual_Fundamentos_Hardware_Ruben_Campos.pdf) está el manual que hice para el módulo (37 páginas):
+
+| Apartado | Qué hice |
+|---|---|
+| Configuración de equipos | Diseño de un PC para dibujo técnico (Ryzen 7 9700X, RTX 5050, 32 GB DDR5) con BuildCores |
+| Placa base | Identificación de 17 componentes de una ASRock M3A785GMH |
+| Montaje y mantenimiento | Guía de montaje en 10 fases, errores que evitar y plan de mantenimiento preventivo |
+| Clonezilla | Clonación partición a partición paso a paso |
+| RAID 6 | Funcionamiento con doble paridad, ventajas e inconvenientes |
+| Información de componentes | CPU-Z y CrystalDiskInfo (S.M.A.R.T.) |
+| Benchmarks | UserBenchmark y CrystalDiskMark, con análisis de resultados y problemas corregidos |
+| Arranque desde UEFI | MemTest86 (0 errores) y GParted |
+| Kali Linux | Instalación y configuración UEFI (Secure Boot, modo de arranque) |
 
 ## Licencia
 
