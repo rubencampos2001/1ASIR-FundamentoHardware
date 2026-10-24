@@ -29,7 +29,7 @@ El documento lo he dividido en siete apartados, siguiendo más o menos el orden 
 2. **Análisis de necesidades de hardware** — miro qué hace falta en cada puesto.  
 3. **Componentes de un equipo informático** — explico por encima la CPU, la RAM, la placa base, los discos, la fuente y las tarjetas.  
 4. **Configuración de hardware propuesta** — aquí pongo los equipos concretos con marca, modelo y **precio aproximado**.  
-5. **Sistema de almacenamiento** — comparó SSD con HDD, hablo de capacidades y del NAS con RAID 1\.  
+5. **Sistema de almacenamiento** — comparo SSD con HDD, hablo de capacidades y del NAS con RAID 1\.  
 6. **Comparativa y posibles mejoras** — qué cambiaría a corto plazo y qué haría si el taller crece.  
 7. **Conclusión** — lo que he sacado en claro haciendo el trabajo.
 
@@ -62,7 +62,7 @@ Estos son los puntos que me piden y que he intentado cubrir:
 
 ## Cómo abrirlo
 
-Sólo hay que bajarse el fichero `Proyecto_Fundamentos_Hardware_Taller.pdf` y abrirlo con Word, LibreOffice Writer o Google Docs. No hace falta nada más.
+Solo hay que abrir el fichero `Proyecto_Fundamentos_Hardware_Taller.pdf` (se ve directamente en GitHub o con cualquier lector de PDF).
 
 ## Licencia
 
